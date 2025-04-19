@@ -1,0 +1,1 @@
+-I"C:/Code/AbstractFactory/build/_deps/googletest-src/googlemock/include" -I"C:/Code/AbstractFactory/build/_deps/googletest-src/googlemock" -isystem "C:/Code/AbstractFactory/build/_deps/googletest-src/googletest/include" -isystem "C:/Code/AbstractFactory/build/_deps/googletest-src/googletest"
