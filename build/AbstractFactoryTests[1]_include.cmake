@@ -1,5 +1,0 @@
-if(EXISTS "C:/Code/AbstractFactory/build/AbstractFactoryTests[1]_tests.cmake")
-  include("C:/Code/AbstractFactory/build/AbstractFactoryTests[1]_tests.cmake")
-else()
-  add_test(AbstractFactoryTests_NOT_BUILT AbstractFactoryTests_NOT_BUILT)
-endif()
